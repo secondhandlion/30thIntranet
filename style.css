@@ -1,0 +1,44 @@
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(http://fonts.googleapis.com/css?family=Russo+One);
+
+body {
+	background-color: #1F1F1F;
+	padding: 0;
+}
+
+div.inner_box {
+	background-color: #D1D1D1;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 3px 25px 3px 25px;
+}
+
+p {
+	font-family: sans-serif;
+}
+
+p.legal {
+	font-size: 10pt;
+	color: #D1D1D1;
+	margin-left: 5%;
+}
+
+h1.title {
+	color: #CF1804;
+	font-family: 'Russo One', sans-serif;
+	font-size: 28pt;
+	margin-bottom: 0;
+}
+
+h2.subtitle {
+	font-size: 13pt;
+	color: #CF1804;
+	font-family: 'Indie Flower', cursive;
+	margin-top: 0;
+}
+
+hr {
+	margin-left: 5%;
+	margin-right: 5%;
+}

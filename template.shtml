@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<meta charset="utf-8">
+		<title>Insert title here</title>
+	</head>
+	<body>
+		<!-- #include file="navbar.html" -->
+		<div class="inner_box">
+			<img id="crest" style="float: right;width: 150px;" src="img/sample_portrait.jpg" alt="Sample" />
+			<h1 class="title">Billet/Page Title</h1>
+			<h2 class="subtitle">Billet Holder/Subtitle</h2>
+			<br />
+			<!-- Placeholder text courtesy of Riker Ipsum -->
+			<p>How long can two people talk about nothing? We have a saboteur aboard. I can't. As much as I care about you, 
+				my first duty is to the ship. Fear is the true enemy, the only enemy. Maybe if we felt any human loss as keenly 
+				as we feel one of those close to us, human history would be far less bloody. Now we know what they mean by 
+				'advanced' tactical training. They were just sucked into space. You enjoyed that. The Federation's gone; the 
+				Borg is everywhere! I will obey your orders. I will serve this ship as First Officer. And in an attack against 
+				the Enterprise, I will die with this crew. But I will not break my oath of loyalty to Starfleet. I'd like to 
+				think that I haven't changed those things, sir. Talk about going nowhere fast. This should be interesting. 
+				Your head is not an artifact!</p>
+		</div>
+		<hr />
+		<!-- Change your name in the legal portion.  Also, if you complete the page in '15, change the year, too. -->
+		<p class="legal">Copyright 2014, 30th Company, United States Naval Academy   All rights reserved.<br />Author: MIDN John Schmuckatelli '17, USN</p>
+	</body>
+</html>
